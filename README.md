@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**durpdur/durpdur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Ian, a software engineer based in San Jose, California.
 
-Here are some ideas to get you started:
+I like to host my own server and mess with locally deployed LLMs on my spare time.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m currently learning ways to accelerate model throughput, improve response accuracy, and reliable deployment using kubernetes.
+
+I got a lot of repos I'm working on, but my favorite is [Obi](https://github.com/LAHacks2026/Obi_Laptop), the AI search engine that runs locally in your file system!
+
+Fun Facts:
+- I used to be a 1 michelin-star sous-chef
+- I still like to make my own stocks and sauces
+- Poker is my favorite party game
