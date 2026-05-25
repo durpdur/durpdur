@@ -8,7 +8,7 @@ I like to host my own server and mess with locally deployed LLMs on my spare tim
 
 I got a lot of repos I'm working on, but my favorite is [Obi](https://github.com/LAHacks2026/Obi_Laptop), the AI search engine that runs locally in your file system!
 
-Fun Facts:
+**Fun Facts:**
 - I used to be a 1 michelin-star sous-chef
 - I still like to make my own stocks and sauces
 - Poker is my favorite party game
