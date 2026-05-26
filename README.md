@@ -10,5 +10,5 @@ I got a lot of repos I'm working on, but my favorite is [Obi](https://github.com
 
 **Fun Facts:**
 - I used to be a 1 michelin-star sous-chef
-- I still like to make my own stocks and sauces
+- Homemade stocks and sauces are so good I still make my own
 - Poker is my favorite party game
